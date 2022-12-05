@@ -24,6 +24,8 @@ ext {
 
     libraryVersion = versionString
 
+
+
     developerId = 'mypos'
     developerName = 'myPOS Developers'
     developerEmail = 'devrel@mypos.com'
